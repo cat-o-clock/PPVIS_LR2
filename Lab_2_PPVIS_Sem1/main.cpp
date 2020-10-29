@@ -6,6 +6,9 @@
 using namespace std;
 
 int main(){
-	
+
+	UserInterface user = UserInterface();
+	user.Menu();
+
 	return 0;
 }
