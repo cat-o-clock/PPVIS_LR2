@@ -1,3 +1,4 @@
+//**@page Заголовочный файл для класса Человек
 #pragma once
 using namespace std;
 #include <iostream>

@@ -1,3 +1,4 @@
+//**@page Файл для реализации функций Пользовательского Интерфейса
 #include "Userinterface.h"
 using namespace std;
 #include <iostream>

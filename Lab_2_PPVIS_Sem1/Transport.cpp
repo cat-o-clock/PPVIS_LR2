@@ -1,3 +1,4 @@
+//**@page Файл для реализации функций класса Транспорт
 #include "transport.h"
 using namespace std;
 
