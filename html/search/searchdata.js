@@ -12,7 +12,7 @@ var indexSectionNames =
 
 var indexSectionLabels =
 {
-  0: "All",
-  1: "Classes"
+  0: "Указатель",
+  1: "Классы"
 };
 
